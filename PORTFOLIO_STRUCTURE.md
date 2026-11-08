@@ -1,6 +1,6 @@
 # Portfolio Structure
 
-This guide maps the portfolio's four research divisions. The archive is intended to document independent inquiry, developing arguments, and intellectual growth—not to function as a résumé or a collection of assignments.
+This guide maps the portfolio's four research divisions. The archive is intended to document independent inquiry, and developing arguments.
 
 ## Research divisions
 

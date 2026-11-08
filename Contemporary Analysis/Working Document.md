@@ -1,0 +1,5 @@
+## **✨ Working Document ✨**
+
+[Link to document](https://docs.google.com/document/d/1BlT4zlZ40xQAu6WIQIQa-ltvbXcVm2hi_ndtYyPJkGk/edit?usp=sharing)
+
+**Reminder :** This is still an ongoing paper. You are not viewing a completely finished project.

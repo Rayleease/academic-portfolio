@@ -1,6 +1,6 @@
 # Interdisciplinary Synthesis
 
-This division is reserved for work that brings independent investigations into conversation. It is not a requirement that every project or contemporary analysis converge on one conclusion, nor should synthesis erase the conditions or differences that produced distinct findings.
+This division is reserved for work that brings independent investigations from the Contemporary Analysis directory into conversation. It is not a requirement that every project or contemporary analysis converge on one conclusion, nor should synthesis erase the conditions or differences that produced distinct findings.
 
 ## Possible forms of synthesis
 

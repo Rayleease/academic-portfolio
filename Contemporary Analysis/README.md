@@ -12,7 +12,7 @@ This division gathers foundational research within individual disciplines: readi
 
 ### Areas of inquiry
 
-Potential areas include:
+ Areas include:
 
 - Philosophy
 - Economics
@@ -22,7 +22,6 @@ Potential areas include:
 - History
 - Political Theory
 
-As material accumulates, create a directory for the relevant field and give substantive notes clear titles, dates or status where useful, and citations or reading references. Categories are organized to support eventual comparison and synthesis across different bodies of thought.
 
 *** Important Note
 **These analyses should not be read as successive parts of a single, linear argument.** Each is an independent and relatively isolated examination of particular social forces, phenomena, or relations. They are intended to stand apart as distinct inquiries before being related later in interdisciplinary synthesis.

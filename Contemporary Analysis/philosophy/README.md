@@ -1,4 +1,4 @@
-# Philosophy: Contemporary Analysis
+# Philosophy
 
 This section gathers independent inquiries into philosophical ideas, arguments, and questions relevant to contemporary life. Each piece is a standalone investigation; it does not necessarily form part of a single, linear argument.
 

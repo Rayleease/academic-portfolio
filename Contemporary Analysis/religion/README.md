@@ -1,4 +1,4 @@
-# Religion: Contemporary Analysis
+# Religion
 
 **Status:** Ongoing working paper; not presented as a completed project.
 
